@@ -32,8 +32,8 @@ body {
 }
 
 img {
-  width: 200px;
-  height: 200px;
+  width: 800px;
+  height: 400px;
   object-fit: contain;
 }
 
@@ -91,7 +91,7 @@ p {
   flex-direction: row;
   text-align: left;
   gap: 30px;
-  background: #120379;
+  background: #8374e9bd;
 }
 
 .footer {
